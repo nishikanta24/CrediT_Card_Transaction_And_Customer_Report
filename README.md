@@ -1,5 +1,9 @@
 # Credit Card Customer and Transaction Reports
 
+![Credit Card Dashboard 1](https://github.com/nishikanta24/CrediT_Card_Transaction_And_Customer_Report/blob/main/pics/Screenshot%202024-11-09%20233153.png)
+
+![Credit Card Dashboard 2](https://github.com/nishikanta24/CrediT_Card_Transaction_And_Customer_Report/blob/main/pics/Screenshot%202024-11-09%20233305.png)
+
 This project provides an analytical view of credit card customer behaviors and transaction details. The analysis is divided into two interactive dashboards: **Credit Card Customer Report** and **Credit Card Transaction Report**, offering insights into customer demographics, revenue sources, and transaction patterns.
 
 ## Objective
